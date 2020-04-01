@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>stack_ko_KR.qm</file>
+    </qresource>
+</RCC>
